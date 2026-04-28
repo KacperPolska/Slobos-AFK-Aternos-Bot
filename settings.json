@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MajsteroweSmp.aternos.me:36545",
+    "ip": "SurvivalMareczka.aternos.me:36545",
     "port": 36545,
     "version": "1.21.6",
     "try-creative": false
